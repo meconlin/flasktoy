@@ -8,6 +8,7 @@ SQLAlchemy==0.9.4
 Werkzeug==0.9.4
 aniso8601==0.82
 itsdangerous==0.24
+marshmallow==0.5.5
 mimerender==0.5.4
 python-dateutil==2.2
 python-mimeparse==0.1.4
